@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": " James Warren Johnson",
+    "occupation": " developpeur full Stack",
+    "description": " Actuellement admis en formation Développement Web / Tech Lead ",
+    "employer": " Digital Campus Paris",
+    "jobDescription": " j’aspire à trouver une alternance qui me permettra d’allier enseignement théorique et formation pratique",
+    "image": "profile_pic.jpg",
+    "bio": "J’ai toujours eu une passion pour l’informatique et les chiffres. Enfant, je pouvais passer des heures devant mon ordinateur sans m’en lasser. Cette fascination pour le coding suscite en moi l’envie constante de développer mes compétences à travers des projets pratiques.",
+    "contactmessage": "Un projet pour moi ? Vous pensez que je serais un bon candidat pour votre équipe ? Je serais ravi d'avoir de vos nouvelles, contactez-moi par e-mail ou en utilisant le formulaire ci-dessous si vous souhaitez entrer en contact avec moi.",
+    "email": "johnsonjw48@gmail.com",
+    "phone": "+33 752350703",
+    "address": {
+      "street": "",
+      "city": "Paris",
+      "state": "Ile de France",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "https://onedrive.live.com/?cid=ACBF58184DD764E5&id=ACBF58184DD764E5%2142874&parId=root&o=OneUp",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/james.warrenjohn",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/johnsonjw48/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/johnsonjw48?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Digital Campus Paris",
+        "degree": "Mastère Développement Web / Tech Lead",
+        "graduated": "Septembre 2023",
+        "description": "En Mastère Développement web / Tech Lead, j'obtiendrai des connaissances avancées en méthodologies de développement, en architecture logiciels et des systèmes. Je saurai coder, architecturer, sécurisé, tester, fidéliser et accompagner toutes les étapes d’un projet. Tout en développant une vision globale, je ferai des choix éclairés et pratiques d’approches et d’outils. Par le management en approche agile, je serai également en mesure de piloter mes équipes et de les faire monter en compétences techniques."
+      },
+      {
+        "school": "IESIG Paris",
+        "degree": "Bachelor Développement Web",
+        "graduated": "Septembre 2021",
+        "description": "PROGRAMMATION ORIENTE OBJET, PHP, UML, JAVASCRIPT, CAHIER DES CHARGES, SQL, MARIA DB, J-QUERRY, JAVA, SYMFONY, BIG DATA, Bootstrap."
+      },
+      {
+        "school": "Université d'Abomey Calavi",
+        "degree": "Licence Statistique",
+        "graduated": "Aout 2019",
+        "description": "Outils informatiques et simulations, Programmation objet, Probabilités, Statistiques, Mathématiques."
+      }
+    ],
+    "work": [
+      {
+        "company": "Indépendant et freelance",
+        "title": "Developper full stack",
+        "years": "Octobre 2020 - Present",
+        "description": "Réalisation d’un site web statique et dynamique; responsive webdesign; intégration Web; conception d’arborescence; gestion des CMS; Mise à jour du contenu de sites internet."
+      },
+      {
+        "company": "Parkours",
+        "title": " Encadreur scolaire",
+        "years": "Janvier 2021 - Mai 2021",
+        "description": "Aide aux devoirs dans le collège Cerene 15."
+      },
+      {
+        "company": "Acadomia",
+        "title": "Professeur de mathématiques",
+        "years": "Janvier 2021 - Mai 2021",
+        "description": "Cours particuliers de mathématiques Collèges et Lycées."
+      },
+      {
+        "company": "Meteo Benin",
+        "title": "Analyste système d’intelligence décisionnelle",
+        "years": "Novembre 2018 - Fevrier 2019",
+        "description": "Collecte des Données, Traitement et Statistiques à l’aide des outils R et python."
+      }
+    ],
+    "skills": [
+      {
+        "name": "GitHub",
+        "description": "J'utilise Git pour tous mes projets. J'ai utilisé Git pour garder une trace de mes projets et pour revenir à une version précédante (au besoin) sur mes projets. ",
+        "image": "git.png"
+      },
+      {
+        "name": "Php",
+        "description": "J'utilise Php pour produire des sites web dynamiques via un serveur. Il s'agit d'un langage orienté objet ce qui lui place parmi mes technologies préférées.",
+        "image": "php.jpg"
+      },
+      {
+        "name": "React",
+        "description": "J'utilise beaucoup React pour mes fronts. Je l'aime beaucoup et je continuerai à l'utiliser à l'avenir. J'ai construit ce portfolio en React.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "WordPress",
+        "description": "Wordpress est le CMS que j'utilise le plus. Je l'utilise avec des éditeurs tels que Divi et Elementor pour créer et modifier des sites Web.",
+        "image": "Wordpress.png"
+      },
+      {
+        "name": "Node JS",
+        "description": "Étant développeur JavaScript, Node JS est mon langage préféré côté serveur de choix. Je l'utilise avec le framework Express.",
+        "image": "node.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "J'utilise python en tant qu'informaticien décisionnel. Mais depuis peu, j'utilise python avec son framework Django pour produire des API REST.",
+        "image": "python.png"
+      },
+      {
+        "name": "MongoDB",
+        "description": "Pour de nombreuses applications, la facilité d'utilisation du SGBD MongoDB correspond mieux à mes besoins.",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "MySQL",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+        "image": "mysql.jpg"
+      }
+   
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Harold Company",
+        "category": "Site réalisé pour une entreprise immobilière",
+        "image": "original-thai-food.jpg",
+        "url": ""
+      },
+      {
+        "title": "Mon portfolio",
+        "category": "Mon portfolio réalisé en React JS",
+        "image": "resume-website.jpg",
+        "url": ""
+      },
+      {
+        "title": "Projet Sira",
+        "category": "Site d'une entreprise de location de voiture",
+        "image": "sira.PNG",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "J'ai eu l'occasion de travailler avec James à plusieurs reprises, ce qui a toujours été un plaisir. Il est motivé avec une attitude toujours positive. James excelle dans la communication avec les autres et est toujours prêt à travailler dur jusqu'à ce qu'il résolve le problème.",
+        "user": "Harouna Kane - Web Developer et formateur"
+      }
+    ]
+  }
+}
