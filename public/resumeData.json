@@ -43,7 +43,7 @@
         "school": "Digital Campus Paris",
         "degree": "Mastère Développement Web / Tech Lead",
         "graduated": "Septembre 2023",
-        "description": "En Mastère Développement web / Tech Lead, j'obtiendrai des connaissances avancées en méthodologies de développement, en architecture logiciels et des systèmes. Je saurai coder, architecturer, sécurisé, tester, fidéliser et accompagner toutes les étapes d’un projet. Tout en développant une vision globale, je ferai des choix éclairés et pratiques d’approches et d’outils. Par le management en approche agile, je serai également en mesure de piloter mes équipes et de les faire monter en compétences techniques."
+        "description": "En Mastère Développement web / Tech Lead, j'obtiendrai des connaissances avancées en méthodologies de développement, en architecture logiciels et des systèmes. Je saurai coder, architecturer, sécuriser, tester, fidéliser et accompagner toutes les étapes d’un projet. Tout en développant une vision globale, je ferai des choix éclairés et pratiques d’approches et d’outils. Par le management en approche agile, je serai également en mesure de piloter mes équipes et de les faire monter en compétences techniques."
       },
       {
         "school": "IESIG Paris",
@@ -92,7 +92,7 @@
       },
       {
         "name": "Php",
-        "description": "J'utilise Php pour produire des sites web dynamiques via un serveur. Il s'agit d'un langage orienté objet ce qui lui place parmi mes technologies préférées.",
+        "description": "J'utilise Php pour produire des sites web dynamiques via un serveur. Il s'agit d'un langage orienté objet ce qui le place parmi mes technologies préférées.",
         "image": "php.jpg"
       },
       {
